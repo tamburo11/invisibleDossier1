@@ -1,0 +1,139 @@
+<br>
+<big><b>SPACES</b><br><br></big>
+
+The performance requires two separate spaces:<br><br>
+
+<ol>
+<li>
+<b>main room</b>: it hosts the installation (see next section) and the audience (seated in the middle of it). The dimensions of the room can vary, the minimum is 15x10x5m (LxWxH). Depending on the size, the audience can range between 70 and 120 people. The audio-video control desk is in this room.
+</li><br>
+
+<li>
+<b>cello room</b>: it must be a space acoustically separated from the main room. It must be connectable with the control desk using audio, optical and HDMI cables (preferably under 30m). It does not need to be a proper room: it can be an empty space such as a stairwell, a foyer, or other. The minimum dimensions are 2x2x2.5m (LxWxH). In this space is placed a cellist, filmed from a video camera, microphoned and ear-monitored.
+</li>
+
+
+</ol>
+
+
+
+<br>
+
+<big><b>INSTALLATION</b><br><br></big>
+
+The installation includes: 6 plates of 1x1m positioned on independent stands around the public; 8 plates of 1x0.5m hung vertically on the heads of the listeners; 2 plates of 1x0.5m hung horizontally on the heads of the listeners.<br><br>
+
+All the plates are equipped with electric transducers, connected via XLR to the control desk. The plates hung vertically are also equipped with servo motors, connected via XLR to the control desk.<br><br>
+
+The 10 plates of 1x0.5 m need to be hung by means of 3 steel cables for each sheet. This is possible by using a traditional truss system for the theatre, or with steel cables in tension anchored to the walls (the plates weigh very little). The minimum size of the truss system square must be 6x6m. <br><br>
+
+All the material for the installation setup is provided by the authors. Required are: <br><br>
+<u>
+<ul>
+<li>the predisposition of the truss system, or of a handy alternative. 
+</li>
+</ul>
+</u>
+
+ 
+
+<br>
+<big><b>CONTROL DESK</b><br><br></big>
+
+The control desk is located in the main room. Required are:<br><br>
+<u>
+<ul>
+<li>No. 2 tables of 2x1m;  
+</li>
+<li>power supply (separate lines for audio); 
+</li>
+<li>multiples plugs.
+</li>
+</ul>
+</u>
+
+
+<br>
+<big><b>AUDIO</b><br><br></big>
+
+
+The installation is self-sufficient regarding the sound diffusion. Required are: <br><br>
+<u>
+<ul>
+<li>No. 2 subwoofers (sized according to the size of the room);
+</li>
+<li>No. 35 XLR of 20m.
+</li>
+</ul>
+</u>
+
+
+<br>
+<big><b>VIDEO PROJECTION</b><br><br></big>
+
+
+The cellist's image is taken from a video camera, processed in real time and projected into the main room. The projector is positioned at the back of the room at a height of between 3 and 5 metres, at a distance of at least 3 metres from the rearmost plate. Required are:<br><br>
+
+<u>
+<ul>
+<li>projector, minimum 5000 ANSI lumens with wide optics (0.8);
+</li>
+<li>HDMI cable, long enough to cover the distance between the cello room and the control desk, or alternatively two kits of HDMI video extender on CAT;
+
+</li>
+</li>
+<li>HDMI cable to cover the distance between the projector and the control-desk;
+
+</li>
+</li>
+<li>ethernet cables to cover the necessary distances if using the extenders.
+</li>
+</ul>
+</u>
+
+
+<br>
+<big><b>SETUP TIME AND TECHNICAL SUPPORT</b><br><br></big>
+
+
+The setup times required are:<br><br>
+<u>
+<ul>
+<li>the whole day before the date of the show for the installation setup;
+</li>
+<li>the whole day of the show, for the necessary rehearsal.
+</li>
+</ul><br>
+</u>
+
+
+
+
+Required are:<br><br>
+<u>
+<ul>
+<li>the assistance of an audio technician for the setup day;
+</li>
+<li>the assistance of a stagehand for the setup day.
+</li>
+</ul><br>
+</u>
+
+
+
+<big><b>LIGHTS</b><br><br></big>
+
+
+The show is in the total dark. It is therefore required that the main room is completely darkened (even the emergency lights must be kept to the minimum and must not be frontal to the direction of public view). The cello room must be illuminated, in a way that is sufficient to allow a good filming of the camera. <br><br>
+
+Required are:<br><br>
+<u>
+<ul>
+<li>a lighting for applause;
+</li>
+<li>No. 2 profile spots positioned on the ground for the public entrance light (to be defined in the room).
+</li>
+</ul><br>
+</u>
+
+
